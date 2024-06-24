@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TMA_Calculator/static/css/main.fe7d10f9.css",
+    "main.js": "/TMA_Calculator/static/js/main.3ed277a8.js",
+    "index.html": "/TMA_Calculator/index.html",
+    "main.fe7d10f9.css.map": "/TMA_Calculator/static/css/main.fe7d10f9.css.map",
+    "main.3ed277a8.js.map": "/TMA_Calculator/static/js/main.3ed277a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe7d10f9.css",
+    "static/js/main.3ed277a8.js"
+  ]
+}
